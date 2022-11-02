@@ -24,5 +24,3 @@ export const ListDeleteButton = styled.button`
   // margin-right: 15px;
   background-color: rgb(243, 161, 242, 0.5);
 `;
-
-export const Information = styled.p``;
